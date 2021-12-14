@@ -1,8 +1,13 @@
 The Big Tent
 ================
 
-This repository contains data and R code necessary to reproduce analyses
-reported in Karpiński et al. (2021).
+This repository contains data and R code necessary to reproduce results
+reported in Karpiński et al. (2021). It consists of just two files:
+
+-   the file `big-tent-data.csv` contains the data used in the analyses.
+    More information about the variables is given below;
+-   the file `data-analysis.R` is an R script file with R code used in
+    the analyses of the data.
 
 # References
 
