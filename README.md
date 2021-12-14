@@ -1,3 +1,4 @@
 # The Big Tent
 
-This repository contains data and R code necessary to reproduce analyses reported in Karpiński et al. (2021).
+This repository contains data and R code necessary to reproduce analyses reported in the paper [https://www.emerald.com/insight/content/doi/10.1108/S0882-614520210000038008/full/html](The Big Tent: Integrating Macro Models for Intergroup Association with Experimental Data on Exchange Relations in a Minimal Group Setting) by Zbigniew Karpiński, John Skvoretz, Adam Kęska and Dariusz Przybysz, published recently in the Advances in Group Processes.
+
