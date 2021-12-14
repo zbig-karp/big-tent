@@ -1,7 +1,5 @@
 The Big Tent
 ================
-Zbigniew Karpiński
-12/14/2021
 
 This repository contains data and R code necessary to reproduce analyses
 reported in Karpiński et al. (2021).
