@@ -14,8 +14,8 @@ reported in Karpiński et al. (2021). It consists of just two files:
 The data come from 8 experimental sessions, with 10 participants per
 session. The sessions were divided into 20 “exchange opportunities.” At
 each opportunity, participants could share the resources they had been
-endowed with the remaining 9 participants. Sharing one’s resources with
-an other means establishing an “exchange relation” with them. Thus,
+endowed with with the remaining 9 participants. Sharing one’s resources
+with an other means establishing an “exchange relation” with them. Thus,
 there is a total of 8 × 20 × 10 × 9 = 14,400 unique observations in the
 data, each observation being an instance of participant *i* sharing
 their resources with participant *j* at round *t* of session *k*. The
